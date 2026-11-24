@@ -18,118 +18,202 @@ I'm passionate about cybersecurity, ethical hacking, vulnerability assessment, p
 
 💡 Bringing analytical thinking, problem-solving, and testing experience from my QA background.
 
-oring
+## 🛠️ Technical Skills
 
-Log Analysis
+### 🔐 Web Application & API Security
+- OWASP Top 10
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- CSRF & SSRF
+- IDOR
+- Clickjacking
+- Information Disclosure
+- JWT Attacks
+- API & GraphQL Testing
+- Black-Box Testing
 
-Incident Response
+### 🏢 Active Directory Security
+- Active Directory Enumeration
+- Kerberoasting
+- AS-REP Roasting
+- BloodHound & SharpHound
+- DCSync
+- Pass-the-Hash
+- Lateral Movement
 
-Windows Event ID Analysis
+### 🛡️ SOC & Threat Detection
+- SIEM
+- Security Monitoring
+- Log Analysis
+- Incident Response
+- Windows Event ID Analysis
+- Splunk (SPL)
+- Wazuh
 
-Splunk (SPL)
+### 📱 Mobile Application Security
+- Android Architecture
+- Static & Dynamic Analysis
+- SSL Pinning Bypass
+- MobSF
+- Frida
 
-Wazuh
+### 🤖 AI/LLM Security
+- OWASP Top 10 for LLMs
+- Prompt Injection
+- LLM Security Testing
+- LLM Penetration Testing Fundamentals
 
-📱 Mobile Application Security
+### ⚙️ Tools & Technologies
+- Burp Suite
+- Nmap
+- Metasploit
+- Gobuster
+- SQLmap
+- Impacket
+- Kerbrute
+- Hydra
+- Hashcat
+- Wireshark
+- Kali Linux
+- Windows
+- Linux
+- Docker
+- VirtualBox
 
-Android Security
+### 🌐 Networking
+- TCP/IP
+- DNS
+- Subnetting
+- Routing
+- Linux File Permissions
 
-Static & Dynamic Analysis
+### 💻 Programming & Software Testing
+- Java
+- Selenium
+- TestNG
+- Postman
+- JMeter
+- BrowserStack
+- Jira
+- SQL
+  
+🚀 Projects & Hands-on Labs
 
-SSL Pinning Bypass
+1. 🔐 E-Commerce Web Application Penetration Testing
 
-MobSF
+Organization: Offenso Hackers Academy – OCSP Project
 
-Frida
-
-🤖 AI/LLM Security
-
-OWASP Top 10 for LLMs
-
-Prompt Injection
-
-LLM Security Testing
-
-LLM Penetration Testing Fundamentals
-
-⚙️ Tools & Technologies
-
-Security Tools
-
-Burp Suite Nmap Metasploit Gobuster SQLmap Impacket Kerbrute Hydra Hashcat Wireshark
-
-SOC & SIEM
-
-Splunk Wazuh
-
-Operating Systems & Platforms
-
-Kali Linux Windows Linux Docker VirtualBox
-
-Mobile Security
-
-MobSF Frida
-
-QA & Testing
-
-Selenium Java TestNG Postman JMeter BrowserStack Jira SQL
-
-🚀 Projects & Hands-on Experience
-
-1. E-Commerce Web Application Penetration Testing
-
-Conducted black-box penetration testing as part of the OCSP training project at Offenso Hackers Academy.
+Performed black-box penetration testing on an e-commerce web application.
 
 Identified and documented 8 confirmed vulnerabilities.
 
-Tested broken authentication, Stored XSS, IDOR, insecure JWT storage, and other security weaknesses.
+Tested broken authentication, Stored XSS, IDOR, insecure JWT storage, missing security headers, and weak password policies.
 
-Used Burp Suite for security testing.
+Used Burp Suite for vulnerability testing and validation.
 
-2. Active Directory Security Labs
+Prepared technical documentation of findings.
 
-Practised Active Directory enumeration and security testing.
+Tools: Burp Suite
 
-Explored Kerberoasting, AS-REP Roasting, DCSync, and Pass-the-Hash.
+2. 🏢 Active Directory Security Labs
 
-Used BloodHound, SharpHound, and Impacket.
+Practised Active Directory enumeration in a domain-based lab environment.
 
-3. SOC & Incident Response Labs
+Explored Kerberoasting and AS-REP Roasting.
 
-Practised log analysis and security monitoring using Splunk and Wazuh.
+Used BloodHound and SharpHound to analyse domain relationships.
 
-Investigated security scenarios and Windows Event IDs.
+Practised DCSync and Pass-the-Hash concepts.
 
-Completed hands-on investigations through BTLO.
+Explored post-exploitation techniques and lateral movement.
 
-4. Android Application Security
+Tools: Impacket, BloodHound, SharpHound, Kerbrute
 
-Performed static and dynamic analysis using DIVA.
+3. 🛡️ SOC & Incident Response Labs
 
-Practised SSL pinning bypass and Frida-based analysis.
+Practised security log monitoring and analysis.
 
-Explored mobile application vulnerabilities.
+Investigated Windows security events and authentication activities.
 
-5. Vulnerable Machine Labs
+Performed SIEM searches using Splunk SPL.
 
-Practised enumeration, exploitation, and privilege escalation.
+Explored security monitoring and alert investigation using Wazuh.
 
-Worked with vulnerable machines including Blue, SickOS, PwnLab, and other lab environments.
+Completed practical investigation scenarios through BTLO.
 
-💼 Professional Experience
+Tools: Splunk, Wazuh
 
-Quality Analyst – Abacies Logiciels
+4. 📱 Android Application Security Testing
 
-August 2023 – April 2026
+Performed static analysis of the DIVA Android application.
 
-2.8 years of experience in software testing.
+Explored dynamic analysis using Frida.
 
-Manual and automation testing of web applications.
+Practised SSL pinning bypass in a controlled lab.
+
+Used MobSF to explore mobile application security issues.
+
+Tools: DIVA, Frida, MobSF
+
+5. 💻 Vulnerable Machine Labs
+
+Practised enumeration, exploitation, and privilege escalation in authorized vulnerable lab environments.
+
+Lab Machines: Blue, SickOS, PwnLab, Green Optic, CryptoBank, and Hack The Box machines.
+
+Tools: Nmap, Metasploit, Kali Linux
+
+6. 🧪 Software Testing Projects
+
+StarterPro & Platinumlist AI Support – Abacies Logiciels
+
+Designed and executed manual and automation test cases.
+
+Performed API validation using Postman.
 
 Developed Selenium automation scripts using Java and TestNG.
 
-Performed API testing using Postman.
+Tracked and verified defects using Jira.
 
-Executed functional, regression, smoke, and cross-browser testing.
+🎯 Areas of Interest
 
-Managed defects using Jira.
+🔐 Ethical Hacking & Penetration Testing
+
+🌐 Web Application & API Security
+
+🛡️ Security Operations Centre (SOC)
+
+📊 SIEM & Threat Detection
+
+🏢 Active Directory Security
+
+📱 Mobile Application Security
+
+🤖 AI & LLM Security
+
+🔎 Vulnerability Assessment & Management
+
+🌍 Network Security
+
+📜 Certifications & Education
+
+🎓 B.Tech in Computer Science and Engineering – APJ Abdul Kalam Technological University (2018–2022)
+
+🔐 OCSP – Cybersecurity Training Program – Offenso Hackers Academy (2026)
+
+💻 Software Testing Certification – Luminar Technolab (2023)
+
+🏅 NACTET Certified in Software Testing
+
+📫 Connect With Me
+
+I'm always interested in connecting with cybersecurity professionals, learning new technologies, and exploring opportunities in the cybersecurity domain.
+
+💼 LinkedIn: linkedin.com/in/amalu-george-69b398221
+
+📧 Email: amalugeorge1111@gmail.com
+
+🐙 GitHub: Explore my repositories
+
+⭐ Keep Learning | Keep Exploring | Keep Securing 🔐
+
