@@ -97,7 +97,7 @@ I'm passionate about cybersecurity, ethical hacking, vulnerability assessment, p
 - Jira
 - SQL
   
-🚀 Projects & Hands-on Labs
+## 🚀 Projects & Hands-on Labs
 
 1. 🔐 E-Commerce Web Application Penetration Testing
 
@@ -175,7 +175,7 @@ Developed Selenium automation scripts using Java and TestNG.
 
 Tracked and verified defects using Jira.
 
-🎯 Areas of Interest
+## 🎯 Areas of Interest
 
 🔐 Ethical Hacking & Penetration Testing
 
@@ -195,7 +195,7 @@ Tracked and verified defects using Jira.
 
 🌍 Network Security
 
-📜 Certifications & Education
+## 📜 Certifications & Education
 
 🎓 B.Tech in Computer Science and Engineering – APJ Abdul Kalam Technological University (2018–2022)
 
@@ -205,7 +205,7 @@ Tracked and verified defects using Jira.
 
 🏅 NACTET Certified in Software Testing
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 I'm always interested in connecting with cybersecurity professionals, learning new technologies, and exploring opportunities in the cybersecurity domain.
 
@@ -215,5 +215,5 @@ I'm always interested in connecting with cybersecurity professionals, learning n
 
 🐙 GitHub: Explore my repositories
 
-⭐ Keep Learning | Keep Exploring | Keep Securing 🔐
+## ⭐ Keep Learning | Keep Exploring | Keep Securing 🔐
 
